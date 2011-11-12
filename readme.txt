@@ -11,12 +11,12 @@ Easy to create post from multiple rss sources.
 
 **Main Features:**
 
-1.Easy to create post from multiple rss sources.
-2.Specify post categories, author, publish date.
-3.Customize formats using flexible post templates.
-4.Unix cron and WP internal cron jobs for feed update.
-5.Cache images on the WordPress Media Library.
-6.Twitter and facebook support.
+1. Easy to create post from multiple rss sources.
+2. Specify post categories, author, publish date.
+3. Customize formats using flexible post templates.
+4. Unix cron and WP internal cron jobs for feed update.
+5. Cache images on the WordPress Media Library.
+6. Twitter and facebook support.
 
 **More info:**
 
