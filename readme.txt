@@ -20,7 +20,7 @@ Easy to create post from multiple rss sources.
 
 **More info:**
 
-* Wordpress Services on [wp-coder.net](http://wp-coder.net/)
+* [Custom Wordpress plugin Services](http://wp-coder.net/)
 * Find out more great [WordPress plugins](http://plugins.wp-coder.net/)
 
 == Installation ==
