@@ -20,8 +20,6 @@ Easy to create post from multiple rss sources.
 
 **More info:**
 
-* [WP comment to access plugin](http://codecanyon.net/item/comment-to-access/1009014)
-* [Custom Wordpress plugin Services](http://wp-coder.net/)
 * Find out more great [WordPress plugins](http://plugins.wp-coder.net/)
 
 == Installation ==
